@@ -1,9 +1,7 @@
-[submodule "libs/imgui"]
-	path = libs/imgui
-	url = https://github.com/duyquangnvx/imgui.git
-	dirty = true
-	branch = docking
 [submodule "libs/glfw"]
 	path = libs/glfw
 	url = https://github.com/duyquangnvx/glfw.git
-	dirty = true
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = https://github.com/duyquangnvx/imgui.git
+	branch = docking
